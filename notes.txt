@@ -1,9 +1,3 @@
-Please now write a comprehensive tutorial in markdown called tutorial.md 
-that is suitable for a complete beginner in frontend coding, to walk me through what you have done here.
-Include a summary of the technology, a high level walk through, and a detailed code review with code samples.
-End with 5 suggestions for ways that the code could be improved based on a self-review.
-
-
 Please build a professional website running locally. 
 My linkedin profile is in LinkedInProfile.pdf.
 Make the website stunning (enterprise meets edgy).
@@ -18,4 +12,12 @@ Please use OpenRouter.
 My OPENROUTER_API_KEY is in .env file in the project root. 
 Please use the model named "openai/gpt-oss-20b".
 Please make the necessary changes and make sure it works before letting me know that it's ready to use.
+
+Please now write a comprehensive tutorial in markdown called tutorial.md 
+that is suitable for a complete beginner in frontend coding, to walk me through what you have done here.
+Include a summary of the technology, a high level walk through, and a detailed code review with code samples.
+End with 5 suggestions for ways that the code could be improved based on a self-review.
+
+Please conduct a comprehensive code review of this project and write the results to review.md.
+Include all recommended remedial actions. IMPORTANT: Don't actually change any code.
 
