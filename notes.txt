@@ -1,0 +1,6 @@
+Please build a professional website running locally. 
+My linkedin profile is in LinkedInProfile.pdf.
+Make the website stunning (enterprise meets edgy).
+It should include an "about me", my carreer journey and links to a portfolio (for future).
+Iterate to make it as slick and professional as possible and let me know only when it is complete.
+Use NextJS.
