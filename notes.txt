@@ -1,6 +1,21 @@
+Please now write a comprehensive tutorial in markdown called tutorial.md 
+that is suitable for a complete beginner in frontend coding, to walk me through what you have done here.
+Include a summary of the technology, a high level walk through, and a detailed code review with code samples.
+End with 5 suggestions for ways that the code could be improved based on a self-review.
+
+
 Please build a professional website running locally. 
 My linkedin profile is in LinkedInProfile.pdf.
 Make the website stunning (enterprise meets edgy).
 It should include an "about me", my carreer journey and links to a portfolio (for future).
 Iterate to make it as slick and professional as possible and let me know only when it is complete.
 Use NextJS.
+
+Website looks great!
+I would now like to add more functionality.
+Please add the ability to have an AI chat with a "Digital Twin" which can answer questions about my career. 
+Please use OpenRouter. 
+My OPENROUTER_API_KEY is in .env file in the project root. 
+Please use the model named "openai/gpt-oss-20b".
+Please make the necessary changes and make sure it works before letting me know that it's ready to use.
+

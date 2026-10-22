@@ -1,3 +1,5 @@
+import DigitalTwinChat from "./components/DigitalTwinChat";
+
 export default function Home() {
   const journey = [
     {
@@ -79,6 +81,9 @@ export default function Home() {
             </a>
             <a href="#portfolio" className="transition hover:text-violet-300">
               Portfolio
+            </a>
+            <a href="#digital-twin" className="transition hover:text-violet-300">
+              AI Twin
             </a>
           </div>
         </nav>
@@ -242,6 +247,17 @@ export default function Home() {
               </p>
             </a>
           </div>
+        </section>
+
+        <section id="digital-twin" className="space-y-3">
+          <h2 className="text-3xl font-bold text-slate-100">
+            Digital Twin chat
+          </h2>
+          <p className="max-w-3xl text-slate-300">
+            Have a conversation with an AI assistant trained on my career story
+            and technical profile.
+          </p>
+          <DigitalTwinChat />
         </section>
       </main>
 
